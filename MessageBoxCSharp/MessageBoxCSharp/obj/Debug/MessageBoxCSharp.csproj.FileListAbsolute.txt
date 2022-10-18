@@ -1,0 +1,9 @@
+c:\users\yanne\documents\visual studio 2013\Projects\MessageBoxCSharp\MessageBoxCSharp\bin\Debug\MessageBoxCSharp.exe.config
+c:\users\yanne\documents\visual studio 2013\Projects\MessageBoxCSharp\MessageBoxCSharp\bin\Debug\MessageBoxCSharp.exe
+c:\users\yanne\documents\visual studio 2013\Projects\MessageBoxCSharp\MessageBoxCSharp\bin\Debug\MessageBoxCSharp.pdb
+c:\users\yanne\documents\visual studio 2013\Projects\MessageBoxCSharp\MessageBoxCSharp\obj\Debug\MessageBoxCSharp.csprojResolveAssemblyReference.cache
+c:\users\yanne\documents\visual studio 2013\Projects\MessageBoxCSharp\MessageBoxCSharp\obj\Debug\MessageBoxCSharp.Form1.resources
+c:\users\yanne\documents\visual studio 2013\Projects\MessageBoxCSharp\MessageBoxCSharp\obj\Debug\MessageBoxCSharp.Properties.Resources.resources
+c:\users\yanne\documents\visual studio 2013\Projects\MessageBoxCSharp\MessageBoxCSharp\obj\Debug\MessageBoxCSharp.csproj.GenerateResource.Cache
+c:\users\yanne\documents\visual studio 2013\Projects\MessageBoxCSharp\MessageBoxCSharp\obj\Debug\MessageBoxCSharp.exe
+c:\users\yanne\documents\visual studio 2013\Projects\MessageBoxCSharp\MessageBoxCSharp\obj\Debug\MessageBoxCSharp.pdb
